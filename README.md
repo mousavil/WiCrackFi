@@ -1,4 +1,4 @@
-# WiCrackFi - WiFi-Hacking-Tool | Python
+# WifiCracker
 
 ---
 
